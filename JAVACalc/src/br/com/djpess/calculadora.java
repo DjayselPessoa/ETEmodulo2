@@ -197,6 +197,7 @@ public class calculadora {
 			}
 		};
 		input.close();
+		System.out.println("Aplicação finalizada!");
 	}
 
 }
